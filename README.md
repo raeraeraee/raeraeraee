@@ -2,6 +2,7 @@
 ![header](https://capsule-render.vercel.app/api??height=250&type=waving&color=006ec9&text=Hi%20there!&fontSize=90&fontAlignY=40&fontColor=FFFFFF&desc=raeraeraee's%20GitHub&descSize=30&descAlignY=60)
 
 
+💻Tech Stack
 
 ![java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 ![Spring](https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
