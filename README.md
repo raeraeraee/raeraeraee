@@ -3,7 +3,7 @@
 ![header](https://capsule-render.vercel.app/api?height=200&type=waving&color=006ec9&text=Hi%20there!&fontSize=60&fontAlignY=40&fontColor=FFFFFF&desc=raeraeraee's%20GitHub&descSize=30&descAlignY=60)
 
 
-### 💻Tech Stack💻 
+## 💻Tech Stack💻 
 
 ![java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
