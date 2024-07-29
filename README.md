@@ -28,7 +28,6 @@
 <br/>
 <br/>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=raeraeraee&layout=compact)](https://github.com/raeraeraee/github-readme-stats)
 
 
 
